@@ -1,0 +1,429 @@
+2025-05-16 17:36:46,345 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 17:36:46,349 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phom penh
+2025-05-16 17:36:50,180 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Phom penh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phom+penh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 17:36:58,593 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 17:36:58,621 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-16 17:37:02,037 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-16 17:37:02,038 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-16 17:37:05,774 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-16 17:51:24,745 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 17:51:24,749 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Thailand
+2025-05-16 17:51:27,812 - app.rpc_client - INFO - RPC CLIENT: Received weather for Thailand
+2025-05-16 17:51:27,812 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Thailand
+2025-05-16 17:51:31,047 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Thailand
+2025-05-16 18:11:24,561 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 18:11:24,563 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Japan 
+2025-05-16 18:11:27,587 - app.rpc_client - INFO - RPC CLIENT: Received weather for Japan 
+2025-05-16 18:11:27,587 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Japan 
+2025-05-16 18:11:30,505 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Japan 
+2025-05-16 18:13:06,640 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 18:13:06,642 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Qqqq
+2025-05-16 18:13:09,652 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Qqqq: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Qqqq&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 18:13:15,835 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 18:13:15,837 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phors
+2025-05-16 18:13:19,872 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Phors: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phors&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 18:13:33,361 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 18:13:33,364 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh 
+2025-05-16 18:13:36,089 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh 
+2025-05-16 18:13:36,090 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh 
+2025-05-16 18:13:38,980 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh 
+2025-05-16 18:52:35,089 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 18:52:35,094 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-16 18:52:38,310 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-16 18:52:38,310 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-16 18:52:41,667 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-16 18:53:22,051 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 18:53:22,053 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Paris
+2025-05-16 18:53:24,963 - app.rpc_client - INFO - RPC CLIENT: Received weather for Paris
+2025-05-16 18:53:24,963 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Paris
+2025-05-16 18:53:27,938 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Paris
+2025-05-16 20:15:44,163 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 20:15:44,165 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh  
+2025-05-16 20:15:49,255 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh  
+2025-05-16 20:15:49,256 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh  
+2025-05-16 20:15:52,172 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh  
+2025-05-16 20:19:08,192 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 20:19:08,195 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Pailin
+2025-05-16 20:19:11,069 - app.rpc_client - INFO - RPC CLIENT: Received weather for Pailin
+2025-05-16 20:19:11,071 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Pailin
+2025-05-16 20:19:13,916 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Pailin
+2025-05-16 21:16:53,030 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 21:16:53,033 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for  Kandal  
+2025-05-16 21:16:56,214 - app.rpc_client - ERROR - RPC CLIENT: Weather error for  Kandal  : <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=+Kandal++&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:17:04,421 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 21:17:04,422 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for  Kandal 
+2025-05-16 21:17:12,422 - app.rpc_client - ERROR - RPC CLIENT: Weather error for  Kandal : <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=+Kandal+&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:17:48,431 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 21:17:48,433 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Preah Sihanouk  
+2025-05-16 21:17:51,568 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Preah Sihanouk  : <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Preah+Sihanouk++&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:18:02,282 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 21:18:02,284 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Pneh
+2025-05-16 21:18:07,211 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Phnom Pneh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phnom+Pneh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:18:11,403 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 21:18:11,405 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-16 21:18:14,231 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-16 21:18:14,232 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-16 21:18:17,950 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-16 21:18:49,630 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 21:18:49,631 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Sihanoukville
+2025-05-16 21:18:52,548 - app.rpc_client - INFO - RPC CLIENT: Received weather for Sihanoukville
+2025-05-16 21:18:52,549 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Sihanoukville
+2025-05-16 21:18:55,627 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Sihanoukville
+2025-05-16 23:36:13,973 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 23:36:13,985 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-16 23:36:17,082 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-16 23:36:17,083 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-16 23:36:19,944 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-16 23:42:55,354 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-16 23:42:55,356 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-16 23:42:58,203 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-16 23:42:58,204 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-16 23:43:01,042 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-17 11:13:21,003 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-17 11:13:21,006 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-17 11:13:24,521 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-17 11:13:24,522 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-17 11:13:27,796 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-17 17:21:08,120 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-17 17:21:08,126 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-17 17:21:11,193 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-17 17:21:11,194 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-17 17:21:14,183 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-17 20:43:48,206 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-17 20:43:48,208 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-17 20:43:51,776 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-17 20:43:51,777 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-17 20:43:54,773 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-17 20:45:09,328 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-17 20:45:09,329 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-17 20:45:12,318 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-17 20:45:12,318 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-17 20:45:15,207 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-17 20:46:50,809 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-17 20:46:50,810 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Kandal
+2025-05-17 20:46:53,727 - app.rpc_client - INFO - RPC CLIENT: Received weather for Kandal
+2025-05-17 20:46:53,727 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Kandal
+2025-05-17 20:46:57,414 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Kandal
+2025-05-17 20:52:14,997 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-17 20:52:15,000 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Thai
+2025-05-17 20:52:18,277 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Thai: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Thai&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-17 23:59:03,401 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-17 23:59:03,403 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-17 23:59:06,842 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-17 23:59:06,842 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-17 23:59:09,791 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-18 00:04:45,851 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-18 00:04:45,852 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Stueng Mean Chey
+2025-05-18 00:04:48,953 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Stueng Mean Chey: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Stueng+Mean+Chey&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:11,260 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-18 00:05:11,263 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Sangkat Stueng Mean Che
+2025-05-18 00:05:14,590 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Sangkat Stueng Mean Che: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sangkat+Stueng+Mean+Che&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:16,811 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-18 00:05:16,816 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Sangkat Stueng Mean Chey
+2025-05-18 00:05:19,997 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Sangkat Stueng Mean Chey: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sangkat+Stueng+Mean+Chey&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:29,957 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-18 00:05:29,958 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Thailand
+2025-05-18 00:05:32,949 - app.rpc_client - INFO - RPC CLIENT: Received weather for Thailand
+2025-05-18 00:05:32,949 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Thailand
+2025-05-18 00:05:35,903 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Thailand
+2025-05-18 00:06:00,353 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-18 00:06:00,354 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-18 00:06:03,298 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-18 00:06:03,298 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-18 00:06:06,312 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-18 00:07:09,716 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-18 00:07:09,718 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Canada
+2025-05-18 00:07:13,859 - app.rpc_client - INFO - RPC CLIENT: Received weather for Canada
+2025-05-18 00:07:13,862 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Canada
+2025-05-18 00:07:17,793 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Canada
+2025-05-18 00:09:58,867 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-18 00:09:58,870 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh 
+2025-05-18 00:10:01,877 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh 
+2025-05-18 00:10:01,878 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh 
+2025-05-18 00:10:05,131 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh 
+2025-05-19 21:40:23,714 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-19 21:40:23,720 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-19 21:40:27,741 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-19 21:40:27,742 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-19 21:40:31,220 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-19 22:25:37,482 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-19 22:25:37,486 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-19 22:25:40,577 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-19 22:25:40,578 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-19 22:25:43,518 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-19 22:26:57,328 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-19 22:26:57,329 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phno Penh
+2025-05-19 22:27:00,336 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Phno Penh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phno+Penh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-19 22:28:02,160 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-19 22:28:02,161 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-19 22:28:05,002 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-19 22:28:05,002 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-19 22:28:07,954 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-19 22:31:14,668 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-19 22:31:14,669 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Canda
+2025-05-19 22:31:18,195 - app.rpc_client - INFO - RPC CLIENT: Received weather for Canda
+2025-05-19 22:31:18,196 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Canda
+2025-05-19 22:31:21,698 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Canda
+2025-05-19 22:31:33,424 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-19 22:31:33,429 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for London
+2025-05-19 22:31:36,629 - app.rpc_client - INFO - RPC CLIENT: Received weather for London
+2025-05-19 22:31:36,629 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for London
+2025-05-19 22:31:39,745 - app.rpc_client - INFO - RPC CLIENT: Received forecast for London
+2025-05-20 10:31:35,391 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 10:31:35,392 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-20 10:31:38,201 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-20 10:31:38,202 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-20 10:31:41,141 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-20 10:33:09,838 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 10:33:09,840 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Rome
+2025-05-20 10:33:12,479 - app.rpc_client - INFO - RPC CLIENT: Received weather for Rome
+2025-05-20 10:33:12,479 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Rome
+2025-05-20 10:33:15,122 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Rome
+2025-05-20 10:33:27,687 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 10:33:27,689 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for bangkok
+2025-05-20 10:33:30,303 - app.rpc_client - INFO - RPC CLIENT: Received weather for bangkok
+2025-05-20 10:33:30,304 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for bangkok
+2025-05-20 10:33:32,943 - app.rpc_client - INFO - RPC CLIENT: Received forecast for bangkok
+2025-05-20 10:50:31,321 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 10:50:31,322 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Rom
+2025-05-20 10:50:34,426 - app.rpc_client - INFO - RPC CLIENT: Received weather for Rom
+2025-05-20 10:50:34,426 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Rom
+2025-05-20 10:50:37,206 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Rom
+2025-05-20 10:50:48,880 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 10:50:48,881 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Sreypich
+2025-05-20 10:50:51,847 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Sreypich: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sreypich&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-20 10:51:14,772 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 10:51:14,775 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for bacelona
+2025-05-20 10:51:18,054 - app.rpc_client - ERROR - RPC CLIENT: Weather error for bacelona: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=bacelona&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-20 10:51:51,965 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 10:51:51,967 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Rome
+2025-05-20 10:51:54,648 - app.rpc_client - INFO - RPC CLIENT: Received weather for Rome
+2025-05-20 10:51:54,649 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Rome
+2025-05-20 10:51:57,544 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Rome
+2025-05-20 13:27:05,779 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 13:27:05,785 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-20 13:27:09,113 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-20 13:27:09,114 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-20 13:27:12,052 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-20 13:28:03,287 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 13:28:03,289 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Rome
+2025-05-20 13:28:05,970 - app.rpc_client - INFO - RPC CLIENT: Received weather for Rome
+2025-05-20 13:28:05,971 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Rome
+2025-05-20 13:28:08,939 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Rome
+2025-05-20 13:28:31,928 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 13:28:31,930 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Bangkok
+2025-05-20 13:28:34,519 - app.rpc_client - INFO - RPC CLIENT: Received weather for Bangkok
+2025-05-20 13:28:34,520 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Bangkok
+2025-05-20 13:28:37,200 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Bangkok
+2025-05-20 13:31:54,056 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 13:31:54,058 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-20 13:31:56,743 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-20 13:31:56,743 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-20 13:31:59,430 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-20 13:33:40,208 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-20 13:33:40,210 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-20 13:33:42,843 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-20 13:33:42,843 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-20 13:33:45,590 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-21 14:52:26,626 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-21 14:52:26,629 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-21 14:52:30,703 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-21 14:52:30,704 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-21 14:52:36,054 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-21 14:54:11,203 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-21 14:54:11,206 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-21 14:54:24,662 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-21 14:54:24,665 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-21 14:54:28,422 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-21 14:59:42,183 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-21 14:59:42,187 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for pich
+2025-05-21 14:59:47,129 - app.rpc_client - INFO - RPC CLIENT: Received weather for pich
+2025-05-21 14:59:47,130 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for pich
+2025-05-21 14:59:50,870 - app.rpc_client - INFO - RPC CLIENT: Received forecast for pich
+2025-05-21 15:00:19,647 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-21 15:00:19,652 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for phomn pnh
+2025-05-21 15:00:22,591 - app.rpc_client - ERROR - RPC CLIENT: Weather error for phomn pnh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=phomn+pnh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-23 14:53:09,717 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-23 14:53:09,725 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-23 14:53:14,642 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-23 14:53:14,645 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-23 14:53:18,845 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-26 12:14:20,372 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-26 12:14:20,378 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh 
+2025-05-26 12:14:24,051 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh 
+2025-05-26 12:14:24,053 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh 
+2025-05-26 12:14:27,506 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh 
+2025-05-30 16:44:57,487 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:44:57,490 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:44:59,911 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:44:59,912 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:00,562 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:00,563 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:00,749 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:00,752 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:00,955 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:00,959 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:01,109 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:01,110 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:02,607 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:02,609 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:02,673 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:02,674 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:03,888 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:04,111 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:04,112 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:04,198 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:04,199 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:04,345 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:04,345 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:04,468 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:04,468 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:05,868 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:05,869 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:06,049 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:06,358 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:06,360 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:07,854 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:07,864 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:07,870 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:08,079 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:08,156 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:08,197 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:08,200 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:08,393 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:08,397 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:08,470 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:45:08,473 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:45:09,469 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:09,769 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:09,770 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:11,682 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:12,135 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:12,153 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:12,425 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:12,428 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:45:12,430 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:12,431 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:45:13,273 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:15,536 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:15,760 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:45:15,778 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:49:39,609 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:49:39,610 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:49:42,400 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:49:42,400 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:49:45,198 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 16:53:19,083 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 16:53:19,085 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 16:53:21,904 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 16:53:21,904 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 16:53:24,650 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 17:19:58,350 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 17:19:58,351 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 17:20:01,222 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 17:20:01,223 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 17:20:03,932 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 17:22:37,379 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 17:22:37,380 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Canada
+2025-05-30 17:22:40,227 - app.rpc_client - INFO - RPC CLIENT: Received weather for Canada
+2025-05-30 17:22:40,228 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Canada
+2025-05-30 17:22:43,022 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Canada
+2025-05-30 17:23:07,920 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 17:23:07,922 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for USA
+2025-05-30 17:23:10,693 - app.rpc_client - INFO - RPC CLIENT: Received weather for USA
+2025-05-30 17:23:10,694 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for USA
+2025-05-30 17:23:13,445 - app.rpc_client - INFO - RPC CLIENT: Received forecast for USA
+2025-05-30 17:27:26,586 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 17:27:26,593 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Japan
+2025-05-30 17:27:30,052 - app.rpc_client - INFO - RPC CLIENT: Received weather for Japan
+2025-05-30 17:27:30,053 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Japan
+2025-05-30 17:27:33,553 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Japan
+2025-05-30 19:08:48,133 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 19:08:48,137 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 19:08:51,940 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 19:08:51,942 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 19:08:55,684 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 19:25:42,812 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 19:25:42,813 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Siem Reap
+2025-05-30 19:25:45,942 - app.rpc_client - INFO - RPC CLIENT: Received weather for Siem Reap
+2025-05-30 19:25:45,943 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Siem Reap
+2025-05-30 19:25:48,845 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Siem Reap
+2025-05-30 19:26:12,315 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 19:26:12,316 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom pnenh
+2025-05-30 19:26:15,406 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Phnom pnenh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phnom+pnenh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-30 19:56:12,881 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 19:56:12,882 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 19:56:16,964 - app.rpc_client - ERROR - RPC CLIENT: Weather error for Phnom Penh: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-30 20:02:41,379 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 20:02:41,381 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 20:02:44,404 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 20:02:44,406 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 20:02:47,418 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 20:06:11,765 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 20:06:11,771 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 20:06:16,652 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 20:06:16,653 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 20:06:20,140 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 20:53:04,116 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 20:53:04,119 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 20:53:07,838 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 20:53:07,839 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 20:53:11,403 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 20:55:00,705 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 20:55:00,711 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 20:55:04,235 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 20:55:04,236 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 20:55:09,105 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 22:02:17,177 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:02:17,180 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 22:02:20,399 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 22:02:20,400 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 22:02:23,512 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 22:04:14,579 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:04:14,583 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Kandal
+2025-05-30 22:04:17,972 - app.rpc_client - INFO - RPC CLIENT: Received weather for Kandal
+2025-05-30 22:04:17,972 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Kandal
+2025-05-30 22:04:20,945 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Kandal
+2025-05-30 22:12:28,706 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:12:28,775 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Kandal
+2025-05-30 22:12:32,868 - app.rpc_client - INFO - RPC CLIENT: Received weather for Kandal
+2025-05-30 22:12:32,869 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Kandal
+2025-05-30 22:12:36,089 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Kandal
+2025-05-30 22:14:20,962 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:14:20,964 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 22:14:24,712 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 22:14:24,714 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 22:14:28,367 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 22:37:21,574 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:37:21,579 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 22:37:24,637 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 22:37:24,638 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 22:37:29,720 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 22:39:51,813 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:39:51,814 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Kandal
+2025-05-30 22:39:56,413 - app.rpc_client - INFO - RPC CLIENT: Received weather for Kandal
+2025-05-30 22:39:56,414 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Kandal
+2025-05-30 22:39:59,305 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Kandal
+2025-05-30 22:52:27,756 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:52:27,757 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 22:52:30,613 - app.rpc_client - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 22:52:30,613 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Phnom Penh
+2025-05-30 22:52:33,537 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Phnom Penh
+2025-05-30 22:53:50,659 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:53:50,659 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Canada
+2025-05-30 22:53:53,560 - app.rpc_client - INFO - RPC CLIENT: Received weather for Canada
+2025-05-30 22:53:53,565 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Canada
+2025-05-30 22:53:56,401 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Canada
+2025-05-30 22:58:03,888 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 22:58:03,889 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for USA
+2025-05-30 22:58:06,920 - app.rpc_client - INFO - RPC CLIENT: Received weather for USA
+2025-05-30 22:58:06,921 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for USA
+2025-05-30 22:58:09,792 - app.rpc_client - INFO - RPC CLIENT: Received forecast for USA
+2025-05-30 23:05:53,183 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 23:05:53,184 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for thai
+2025-05-30 23:05:56,100 - app.rpc_client - ERROR - RPC CLIENT: Weather error for thai: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=thai&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-30 23:06:07,807 - app.rpc_client - INFO - RPC CLIENT: Connected to server
+2025-05-30 23:06:07,808 - app.rpc_client - INFO - RPC CLIENT: Requesting weather for Thailand
+2025-05-30 23:06:10,617 - app.rpc_client - INFO - RPC CLIENT: Received weather for Thailand
+2025-05-30 23:06:10,617 - app.rpc_client - INFO - RPC CLIENT: Requesting forecast for Thailand
+2025-05-30 23:06:13,441 - app.rpc_client - INFO - RPC CLIENT: Received forecast for Thailand

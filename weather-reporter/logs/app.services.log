@@ -1,0 +1,204 @@
+2025-05-16 17:36:46,346 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 17:36:46,348 - app.services - INFO - SERVICE: Getting weather for Phom penh
+2025-05-16 17:36:50,181 - app.services - ERROR - SERVICE: Error for Phom penh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phom+penh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 17:36:58,596 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 17:36:58,597 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-16 17:51:24,746 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 17:51:24,748 - app.services - INFO - SERVICE: Getting weather for Thailand
+2025-05-16 18:11:24,562 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 18:11:24,562 - app.services - INFO - SERVICE: Getting weather for Japan 
+2025-05-16 18:13:06,641 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 18:13:06,641 - app.services - INFO - SERVICE: Getting weather for Qqqq
+2025-05-16 18:13:09,652 - app.services - ERROR - SERVICE: Error for Qqqq: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Qqqq&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 18:13:15,836 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 18:13:15,836 - app.services - INFO - SERVICE: Getting weather for Phors
+2025-05-16 18:13:19,873 - app.services - ERROR - SERVICE: Error for Phors: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phors&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 18:13:33,363 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 18:13:33,364 - app.services - INFO - SERVICE: Getting weather for Phnom Penh 
+2025-05-16 18:52:35,091 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 18:52:35,093 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-16 18:53:22,051 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 18:53:22,052 - app.services - INFO - SERVICE: Getting weather for Paris
+2025-05-16 20:15:44,164 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 20:15:44,165 - app.services - INFO - SERVICE: Getting weather for Phnom Penh  
+2025-05-16 20:19:08,194 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 20:19:08,195 - app.services - INFO - SERVICE: Getting weather for Pailin
+2025-05-16 21:16:53,030 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 21:16:53,032 - app.services - INFO - SERVICE: Getting weather for  Kandal  
+2025-05-16 21:16:56,215 - app.services - ERROR - SERVICE: Error for  Kandal  : <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=+Kandal++&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:17:04,422 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 21:17:04,422 - app.services - INFO - SERVICE: Getting weather for  Kandal 
+2025-05-16 21:17:12,423 - app.services - ERROR - SERVICE: Error for  Kandal : <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=+Kandal+&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:17:48,432 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 21:17:48,433 - app.services - INFO - SERVICE: Getting weather for Preah Sihanouk  
+2025-05-16 21:17:51,569 - app.services - ERROR - SERVICE: Error for Preah Sihanouk  : <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Preah+Sihanouk++&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:18:02,283 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 21:18:02,283 - app.services - INFO - SERVICE: Getting weather for Phnom Pneh
+2025-05-16 21:18:07,212 - app.services - ERROR - SERVICE: Error for Phnom Pneh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phnom+Pneh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:18:11,404 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 21:18:11,405 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-16 21:18:49,630 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 21:18:49,630 - app.services - INFO - SERVICE: Getting weather for Sihanoukville
+2025-05-16 23:36:13,979 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 23:36:13,984 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-16 23:42:55,354 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-16 23:42:55,355 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-17 11:13:21,005 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-17 11:13:21,006 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-17 17:21:08,122 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-17 17:21:08,125 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-17 20:43:48,207 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-17 20:43:48,208 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-17 20:45:09,328 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-17 20:45:09,329 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-17 20:46:50,809 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-17 20:46:50,810 - app.services - INFO - SERVICE: Getting weather for Kandal
+2025-05-17 20:52:14,999 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-17 20:52:15,000 - app.services - INFO - SERVICE: Getting weather for Thai
+2025-05-17 20:52:18,278 - app.services - ERROR - SERVICE: Error for Thai: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Thai&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-17 23:59:03,402 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-17 23:59:03,403 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-18 00:04:45,852 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-18 00:04:45,852 - app.services - INFO - SERVICE: Getting weather for Stueng Mean Chey
+2025-05-18 00:04:48,954 - app.services - ERROR - SERVICE: Error for Stueng Mean Chey: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Stueng+Mean+Chey&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:11,261 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-18 00:05:11,262 - app.services - INFO - SERVICE: Getting weather for Sangkat Stueng Mean Che
+2025-05-18 00:05:14,591 - app.services - ERROR - SERVICE: Error for Sangkat Stueng Mean Che: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sangkat+Stueng+Mean+Che&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:16,814 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-18 00:05:16,814 - app.services - INFO - SERVICE: Getting weather for Sangkat Stueng Mean Chey
+2025-05-18 00:05:19,998 - app.services - ERROR - SERVICE: Error for Sangkat Stueng Mean Chey: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sangkat+Stueng+Mean+Chey&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:29,958 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-18 00:05:29,958 - app.services - INFO - SERVICE: Getting weather for Thailand
+2025-05-18 00:06:00,354 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-18 00:06:00,354 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-18 00:07:09,717 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-18 00:07:09,718 - app.services - INFO - SERVICE: Getting weather for Canada
+2025-05-18 00:09:58,868 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-18 00:09:58,869 - app.services - INFO - SERVICE: Getting weather for Phnom Penh 
+2025-05-19 21:40:23,717 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-19 21:40:23,718 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-19 22:25:37,484 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-19 22:25:37,485 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-19 22:26:57,329 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-19 22:26:57,329 - app.services - INFO - SERVICE: Getting weather for Phno Penh
+2025-05-19 22:27:00,337 - app.services - ERROR - SERVICE: Error for Phno Penh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phno+Penh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-19 22:28:02,160 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-19 22:28:02,161 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-19 22:31:14,669 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-19 22:31:14,669 - app.services - INFO - SERVICE: Getting weather for Canda
+2025-05-19 22:31:33,425 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-19 22:31:33,427 - app.services - INFO - SERVICE: Getting weather for London
+2025-05-20 10:31:35,391 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 10:31:35,392 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-20 10:33:09,839 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 10:33:09,839 - app.services - INFO - SERVICE: Getting weather for Rome
+2025-05-20 10:33:27,688 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 10:33:27,689 - app.services - INFO - SERVICE: Getting weather for bangkok
+2025-05-20 10:50:31,321 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 10:50:31,322 - app.services - INFO - SERVICE: Getting weather for Rom
+2025-05-20 10:50:48,881 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 10:50:48,881 - app.services - INFO - SERVICE: Getting weather for Sreypich
+2025-05-20 10:50:51,849 - app.services - ERROR - SERVICE: Error for Sreypich: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sreypich&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-20 10:51:14,772 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 10:51:14,774 - app.services - INFO - SERVICE: Getting weather for bacelona
+2025-05-20 10:51:18,055 - app.services - ERROR - SERVICE: Error for bacelona: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=bacelona&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-20 10:51:51,966 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 10:51:51,967 - app.services - INFO - SERVICE: Getting weather for Rome
+2025-05-20 13:27:05,783 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 13:27:05,784 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-20 13:28:03,288 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 13:28:03,288 - app.services - INFO - SERVICE: Getting weather for Rome
+2025-05-20 13:28:31,929 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 13:28:31,929 - app.services - INFO - SERVICE: Getting weather for Bangkok
+2025-05-20 13:31:54,057 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 13:31:54,057 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-20 13:33:40,209 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-20 13:33:40,209 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-21 14:52:26,627 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-21 14:52:26,628 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-21 14:54:11,204 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-21 14:54:11,205 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-21 14:59:42,185 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-21 14:59:42,186 - app.services - INFO - SERVICE: Getting weather for pich
+2025-05-21 15:00:19,649 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-21 15:00:19,650 - app.services - INFO - SERVICE: Getting weather for phomn pnh
+2025-05-21 15:00:22,593 - app.services - ERROR - SERVICE: Error for phomn pnh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=phomn+pnh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-23 14:53:09,720 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-23 14:53:09,723 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-26 12:14:20,375 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-26 12:14:20,377 - app.services - INFO - SERVICE: Getting weather for Phnom Penh 
+2025-05-30 16:44:57,488 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:44:57,490 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:44:59,912 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:44:59,912 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:00,750 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:00,751 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:00,957 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:00,958 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:01,110 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:01,110 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:02,608 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:02,608 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:04,199 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:04,199 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:06,359 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:06,360 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:08,198 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:08,199 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:08,395 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:08,396 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:45:08,472 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:45:08,472 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:49:39,610 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:49:39,610 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 16:53:19,084 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 16:53:19,084 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 17:19:58,350 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 17:19:58,351 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 17:22:37,379 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 17:22:37,380 - app.services - INFO - SERVICE: Getting weather for Canada
+2025-05-30 17:23:07,921 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 17:23:07,921 - app.services - INFO - SERVICE: Getting weather for USA
+2025-05-30 17:27:26,590 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 17:27:26,591 - app.services - INFO - SERVICE: Getting weather for Japan
+2025-05-30 19:08:48,134 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 19:08:48,136 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 19:25:42,813 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 19:25:42,813 - app.services - INFO - SERVICE: Getting weather for Siem Reap
+2025-05-30 19:26:12,316 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 19:26:12,316 - app.services - INFO - SERVICE: Getting weather for Phnom pnenh
+2025-05-30 19:26:15,407 - app.services - ERROR - SERVICE: Error for Phnom pnenh: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phnom+pnenh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-30 19:56:12,881 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 19:56:12,882 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 19:56:16,965 - app.services - ERROR - SERVICE: Error for Phnom Penh: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-30 20:02:41,380 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 20:02:41,381 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 20:06:11,769 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 20:06:11,770 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 20:53:04,117 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 20:53:04,119 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 20:55:00,706 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 20:55:00,710 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 22:02:17,178 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:02:17,179 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 22:04:14,580 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:04:14,581 - app.services - INFO - SERVICE: Getting weather for Kandal
+2025-05-30 22:12:28,765 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:12:28,774 - app.services - INFO - SERVICE: Getting weather for Kandal
+2025-05-30 22:14:20,963 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:14:20,964 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 22:37:21,577 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:37:21,578 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 22:39:51,813 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:39:51,814 - app.services - INFO - SERVICE: Getting weather for Kandal
+2025-05-30 22:52:27,757 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:52:27,757 - app.services - INFO - SERVICE: Getting weather for Phnom Penh
+2025-05-30 22:53:50,659 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:53:50,659 - app.services - INFO - SERVICE: Getting weather for Canada
+2025-05-30 22:58:03,889 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 22:58:03,889 - app.services - INFO - SERVICE: Getting weather for USA
+2025-05-30 23:05:53,184 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 23:05:53,184 - app.services - INFO - SERVICE: Getting weather for thai
+2025-05-30 23:05:56,101 - app.services - ERROR - SERVICE: Error for thai: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=thai&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-30 23:06:07,808 - app.services - INFO - SERVICE: RPC client initialized
+2025-05-30 23:06:07,808 - app.services - INFO - SERVICE: Getting weather for Thailand

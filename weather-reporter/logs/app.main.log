@@ -1,0 +1,115 @@
+2025-05-16 15:50:36,748 - app.main - ERROR - Weather fetch error: 'BASE_URL'
+2025-05-16 15:50:40,429 - app.main - ERROR - Weather fetch error: 'BASE_URL'
+2025-05-16 15:50:45,696 - app.main - ERROR - Weather fetch error: 'BASE_URL'
+2025-05-16 15:50:54,710 - app.main - ERROR - Weather fetch error: 'BASE_URL'
+2025-05-16 17:36:46,343 - app.main - INFO - WEB: Received request for Phom penh
+2025-05-16 17:36:50,182 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phom+penh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 17:36:58,592 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-16 17:51:24,743 - app.main - INFO - WEB: Received request for Thailand
+2025-05-16 18:11:24,560 - app.main - INFO - WEB: Received request for Japan 
+2025-05-16 18:13:06,639 - app.main - INFO - WEB: Received request for Qqqq
+2025-05-16 18:13:09,653 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Qqqq&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 18:13:15,835 - app.main - INFO - WEB: Received request for Phors
+2025-05-16 18:13:19,873 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phors&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 18:13:33,359 - app.main - INFO - WEB: Received request for Phnom Penh 
+2025-05-16 18:52:35,071 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-16 18:53:22,050 - app.main - INFO - WEB: Received request for Paris
+2025-05-16 20:15:44,139 - app.main - INFO - WEB: Received request for Phnom Penh  
+2025-05-16 20:19:08,191 - app.main - INFO - WEB: Received request for Pailin
+2025-05-16 21:16:53,028 - app.main - INFO - WEB: Received request for  Kandal  
+2025-05-16 21:16:56,215 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=+Kandal++&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:17:04,420 - app.main - INFO - WEB: Received request for  Kandal 
+2025-05-16 21:17:12,423 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=+Kandal+&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:17:48,430 - app.main - INFO - WEB: Received request for Preah Sihanouk  
+2025-05-16 21:17:51,569 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Preah+Sihanouk++&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:18:02,281 - app.main - INFO - WEB: Received request for Phnom Pneh
+2025-05-16 21:18:07,213 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phnom+Pneh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-16 21:18:11,403 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-16 21:18:49,629 - app.main - INFO - WEB: Received request for Sihanoukville
+2025-05-16 23:36:13,962 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-16 23:42:55,353 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-17 11:13:20,971 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-17 17:21:08,093 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-17 20:43:48,183 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-17 20:45:09,327 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-17 20:46:50,808 - app.main - INFO - WEB: Received request for Kandal
+2025-05-17 20:52:14,996 - app.main - INFO - WEB: Received request for Thai
+2025-05-17 20:52:18,279 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Thai&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-17 23:59:03,397 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-18 00:04:45,851 - app.main - INFO - WEB: Received request for Stueng Mean Chey
+2025-05-18 00:04:48,955 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Stueng+Mean+Chey&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:11,260 - app.main - INFO - WEB: Received request for Sangkat Stueng Mean Che
+2025-05-18 00:05:14,592 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sangkat+Stueng+Mean+Che&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:16,809 - app.main - INFO - WEB: Received request for Sangkat Stueng Mean Chey
+2025-05-18 00:05:19,999 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sangkat+Stueng+Mean+Chey&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-18 00:05:29,957 - app.main - INFO - WEB: Received request for Thailand
+2025-05-18 00:06:00,353 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-18 00:07:09,715 - app.main - INFO - WEB: Received request for Canada
+2025-05-18 00:09:58,866 - app.main - INFO - WEB: Received request for Phnom Penh 
+2025-05-19 21:40:23,713 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-19 22:25:37,458 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-19 22:26:57,328 - app.main - INFO - WEB: Received request for Phno Penh
+2025-05-19 22:27:00,339 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phno+Penh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-19 22:28:02,159 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-19 22:31:14,668 - app.main - INFO - WEB: Received request for Canda
+2025-05-19 22:31:33,423 - app.main - INFO - WEB: Received request for London
+2025-05-20 10:31:35,390 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-20 10:33:09,837 - app.main - INFO - WEB: Received request for Rome
+2025-05-20 10:33:27,687 - app.main - INFO - WEB: Received request for bangkok
+2025-05-20 10:50:31,320 - app.main - INFO - WEB: Received request for Rom
+2025-05-20 10:50:48,880 - app.main - INFO - WEB: Received request for Sreypich
+2025-05-20 10:50:51,850 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Sreypich&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-20 10:51:14,772 - app.main - INFO - WEB: Received request for bacelona
+2025-05-20 10:51:18,055 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=bacelona&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-20 10:51:51,965 - app.main - INFO - WEB: Received request for Rome
+2025-05-20 13:27:05,773 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-20 13:28:03,286 - app.main - INFO - WEB: Received request for Rome
+2025-05-20 13:28:31,927 - app.main - INFO - WEB: Received request for Bangkok
+2025-05-20 13:31:54,055 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-20 13:33:40,208 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-21 14:52:26,624 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-21 14:54:11,201 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-21 14:59:42,181 - app.main - INFO - WEB: Received request for pich
+2025-05-21 15:00:19,646 - app.main - INFO - WEB: Received request for phomn pnh
+2025-05-21 15:00:22,595 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=phomn+pnh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-23 14:53:09,712 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-26 12:14:20,370 - app.main - INFO - WEB: Received request for Phnom Penh 
+2025-05-30 16:44:57,486 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:44:59,911 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:00,749 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:00,953 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:01,109 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:02,606 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:04,198 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:06,357 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:08,197 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:08,391 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:45:08,470 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:49:39,609 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 16:53:19,082 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 17:19:58,349 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 17:22:37,379 - app.main - INFO - WEB: Received request for Canada
+2025-05-30 17:23:07,919 - app.main - INFO - WEB: Received request for USA
+2025-05-30 17:27:26,584 - app.main - INFO - WEB: Received request for Japan
+2025-05-30 19:08:48,124 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 19:25:42,811 - app.main - INFO - WEB: Received request for Siem Reap
+2025-05-30 19:26:12,315 - app.main - INFO - WEB: Received request for Phnom pnenh
+2025-05-30 19:26:15,409 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=Phnom+pnenh&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-30 19:56:12,880 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 19:56:16,965 - app.main - ERROR - WEB Error: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-30 20:02:41,379 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 20:06:11,763 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 20:53:04,114 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 20:55:00,703 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 22:02:17,157 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 22:04:14,578 - app.main - INFO - WEB: Received request for Kandal
+2025-05-30 22:12:28,698 - app.main - INFO - WEB: Received request for Kandal
+2025-05-30 22:14:20,961 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 22:37:21,552 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 22:39:51,812 - app.main - INFO - WEB: Received request for Kandal
+2025-05-30 22:52:27,756 - app.main - INFO - WEB: Received request for Phnom Penh
+2025-05-30 22:53:50,658 - app.main - INFO - WEB: Received request for Canada
+2025-05-30 22:58:03,888 - app.main - INFO - WEB: Received request for USA
+2025-05-30 23:05:53,182 - app.main - INFO - WEB: Received request for thai
+2025-05-30 23:05:56,101 - app.main - ERROR - WEB Error: <Fault 1: "<class 'requests.exceptions.HTTPError'>:404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=thai&appid=f5bae66eb6cd05c685eb023b4a9b8e56&units=metric">
+2025-05-30 23:06:07,807 - app.main - INFO - WEB: Received request for Thailand

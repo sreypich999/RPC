@@ -1,0 +1,19 @@
+2025-05-16 15:36:41,193 - __main__ - INFO - RPC Server started on port 8001
+2025-05-16 17:38:20,909 - __main__ - INFO - RPC CLIENT: Connected to server
+2025-05-16 17:38:20,910 - __main__ - INFO - RPC CLIENT: Requesting weather for London
+2025-05-16 17:38:23,732 - __main__ - INFO - RPC CLIENT: Received weather for London
+2025-05-16 17:59:53,900 - __main__ - INFO - RPC CLIENT: Connected to server
+2025-05-16 17:59:53,901 - __main__ - INFO - RPC CLIENT: Requesting weather for London
+2025-05-16 17:59:57,229 - __main__ - INFO - RPC CLIENT: Received weather for London
+2025-05-16 18:26:54,406 - __main__ - INFO - RPC CLIENT: Connected to server
+2025-05-16 18:26:54,407 - __main__ - INFO - RPC CLIENT: Requesting weather for London
+2025-05-16 18:26:57,553 - __main__ - INFO - RPC CLIENT: Received weather for London
+2025-05-16 18:27:03,912 - __main__ - INFO - RPC CLIENT: Connected to server
+2025-05-16 18:27:03,912 - __main__ - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-16 18:27:06,824 - __main__ - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-16 23:59:32,356 - __main__ - INFO - RPC CLIENT: Connected to server
+2025-05-16 23:59:32,380 - __main__ - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-16 23:59:35,151 - __main__ - INFO - RPC CLIENT: Received weather for Phnom Penh
+2025-05-30 21:44:49,521 - __main__ - INFO - RPC CLIENT: Connected to server
+2025-05-30 21:44:49,524 - __main__ - INFO - RPC CLIENT: Requesting weather for Phnom Penh
+2025-05-30 21:44:53,620 - __main__ - ERROR - RPC CLIENT: Weather error for Phnom Penh: [WinError 10061] No connection could be made because the target machine actively refused it
