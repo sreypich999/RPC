@@ -19,16 +19,6 @@ A Python Flask application that communicates with a custom RPC server to fetch r
 
 ---
 
-## 📸 Screenshots
-
-| Search Page          | Current Weather Result   | 5-Day Forecast           |
-|---------------------|-------------------------|--------------------------|
-| ![Search](screenshots/search.png) | ![Current](screenshots/current_weather.png) | ![Forecast](screenshots/forecast.png) |
-
-> _Add screenshots to a `screenshots/` folder inside your project._
-
----
-
 ## 🗂️ Project Structure
 
 ```plaintext
