@@ -14,7 +14,7 @@ A Python Flask application that communicates with a custom RPC server to fetch r
 - 🏙️ **City Weather Search**: Get current weather and 5-day forecast by entering any city.
 - 🔄 **Client-Server RPC Communication**: Flask acts as the client sending requests to a Python XML-RPC server.
 - 🌦️ **Live Weather Data**: View temperature, humidity, wind speed, and weather descriptions.
-- 📁 **Responsive HTML Templates**: Clean and user-friendly interfaces with Jinja2 templates.
+- 📁 **Responsive HTML Templates**: Clean and user-friendly interfaces.
 - ⚙️ **Modular & Scalable**: Clear separation of concerns for maintainability and expansion.
 
 ---
