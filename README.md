@@ -22,18 +22,28 @@ A Python Flask application that communicates with a custom RPC server to fetch r
 ## 🗂️ Project Structure
 
 ```plaintext
-RPC/
+our file directory 
+weather-reporter/
 ├── app/
 │   ├── __init__.py
-│   ├── main.py              # Flask routes and app logic
-│   ├── rpc_client.py        # RPC client connecting to the server
-│   ├── rpc_server.py        # XML-RPC server serving weather data
-│   ├── services.py          # OpenWeatherMap API integration
-│   └── templates/
-│       ├── index.html       # City input form
-│       ├── weather.html     # Current weather display
-│       └── forecast.html    # 5-day forecast display
-├── run.py                   # Flask app entry point
-├── requirements.txt         # Python dependencies
-├── .env                     # Environment variables (API keys)
-└── README.md                # This documentation
+│   ├── main.py
+│   ├── rpc_server.py
+│   ├── rpc_client.py
+│   ├── services.py
+│   ├── auth.py
+│   ├── config.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── logging_config.py
+│   │   └── security.py
+│   ├── templates/
+│   │   └── index.html
+│   └── static/
+│       └── css/
+│           └── style.css
+├── run.py
+├── ngrok/
+│   └── start_ngrok.sh
+├── .env
+├── requirements.txt
+└── README.md
